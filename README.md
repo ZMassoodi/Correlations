@@ -4,7 +4,11 @@ Preliminary statistical diagnostics financial time-series analysis
 ## Motivation
 This project examines how implied volatility, realised yield volatility and changes in Treasury yields interact across different market conditions. The aim is to develop practical experience in financial time-series analysis, statistical modelling and quantitative research.
 
-## Project Overview
+The project is ongoing. Subject to the availability of sufficient historical data, this framework could incorporate trading volume and desk-level revenue data. This would allow an investigation into how changes in market volatility, interest rates and broader market conditions relate to trading activity and revenue generation across different asset classes.
+
+The longer-term objective is to move beyond analysing market indicators in isolation and towards understanding how market conditions translate into measurable commercial activity.
+
+## Data
 - 2-year and 10-year US Treasury yields.
 - The 2-year / 10-year yield spread.
 - The ICE BofA MOVE Index as a measure of implied Treasury volatility.
@@ -29,7 +33,3 @@ This project examines how implied volatility, realised yield volatility and chan
 - Seaborn
 - Statsmodels
 
-## Current Status
-The project is ongoing. Subject to the availability of sufficient historical data, this framework could incorporate trading volume and desk-level revenue data. This would allow an investigation into how changes in market volatility, interest rates and broader market conditions relate to trading activity and revenue generation across different asset classes.
-
-The longer-term objective is to move beyond analysing market indicators in isolation and towards understanding how market conditions translate into measurable commercial activity.
