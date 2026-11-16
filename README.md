@@ -1,5 +1,5 @@
 # Treasury Correlation Analysis
-Quantitative analysis of financial market correlations - time-series analysis and statistical modelling
+Preliminary statistical diagnostics financial time-series analysis
 
 ## Motivation
 This project examines how implied volatility, realised yield volatility and changes in Treasury yields interact across different market conditions. The aim is to develop practical experience in financial time-series analysis, statistical modelling and quantitative research.
